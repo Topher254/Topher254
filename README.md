@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAROTA RAPHAEL</h1>
-<h3 align="center">aka Topher254 — A Telecommunication and Information Engineering student</h3>
+<h3 align="center">aka Topher254 — A Telecommunication and Information Engineer | FullStack Developer</h3>
 
 ---
 
