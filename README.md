@@ -23,11 +23,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
 
 ---
+### 📈 GitHub Stats (2025)
+![Topher254's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topher254&show_icons=true&theme=radical&include_all_commits=false&count_private=true)
 
-### 📈 GitHub Stats
-![Topher254's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topher254&show_icons=true&theme=radical)
-
----
 
 ### 📫 Connect With Me
 📞 Phone: +254 796 871 876  
